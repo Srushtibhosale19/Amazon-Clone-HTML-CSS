@@ -1,2 +1,3 @@
 # Amazon-Clone-HTML-CSS
 Amazon Clone using HTML &amp; CSS
+The project involves creating a clone of the Amazon website using HTML and CSS. The goal is to replicate the look and feel of the Amazon platform, including its layout, styling, and visual elements. This project likely includes designing the homepage, navigation bar, product listings, product details page, shopping cart, and possibly the checkout process. The use of HTML will structure the content, while CSS will be utilized for styling and layout purposes. This project offers an opportunity to practice web development skills by imitating a real-world e-commerce website's design and layout.
